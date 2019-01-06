@@ -1,5 +1,5 @@
 # Nginx-Image-Filter
-###It's a nginx image resizer to be specify. We use in our Back-end CMS.
+It's a nginx image resizer to be specify. We use in our Back-end CMS.
 
 ## How to load Module
 ```
