@@ -2,9 +2,7 @@
 It's a nginx image resizer to be specify. We use in our Back-end CMS.
 
 ## How to load Module
-```
 Tutorial [here](https://zaiste.net/nginx_image_server_with_image_filter_secure_link_modules/).
-```
 
 ## Technology used
 ```
